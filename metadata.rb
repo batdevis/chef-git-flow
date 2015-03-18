@@ -1,5 +1,6 @@
-maintainer        "lshepstone"
-maintainer_email  "lawrance.shepstone@gmail.com"
+name              "git-flow"
+maintainer        "batdevis"
+maintainer_email  "batdevis@gmail.com"
 license           "Apache 2.0"
 description       "Installs git-flow git extension https://github.com/nvie/gitflow"
 long_description  IO.read(File.join(File.dirname(__FILE__), 'README.md'))
